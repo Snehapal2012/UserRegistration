@@ -29,7 +29,7 @@ public class UserValidEmails {
                 break;
         }
     }
-    public static void  userFirstName(){
+    public static void userFirstName(){
         String name1;
         Scanner scan=new Scanner(System.in);
         System.out.print("Enter First name: ");
